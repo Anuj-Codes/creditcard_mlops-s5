@@ -1,5 +1,5 @@
 make_dataset:
-  test_split: 0.2
+  test_split: 0.3
   seed: 2023
 train_model:
   seed: 21
